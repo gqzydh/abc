@@ -1,15 +1,15 @@
 {
   "navList": [
     {
-      "title": "常用资源",
+      "title": "Rhino-犀牛",
       "con": [
         {
-          "name": "TinyPNG 图片在线压缩",
-          "url": "https://tinypng.com/",
-          "icon": "https://tinypng.com/images/apple-touch-icon.png",
-          "des": "TinyPNG使用智能有损压缩技术来减少 PNG文件的文件大小。",
+          "name": "学犀牛中文网",
+          "url": "http://www.xuexiniu.com",
+          "icon": "http://www.xuexiniu.com/template/hl_newiconfans/images/logo.png",
+          "des": "Rhino(犀牛)教程中文网站-学犀牛(Rhino)官方论坛 ",
           "tags": [
-            "工具"
+            "软件"
           ]
         },
         {
