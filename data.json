@@ -1,8 +1,17 @@
 {
   "navList": [
     {
-      "title": "Rhino-犀牛",
+      "title": "工业设计",
       "con": [
+      	 {
+          "name": "Ugainian-优概念",
+          "url": "http://www.ugainian.com/",
+          "icon": "http://www.ugainian.com/img/favicon.ico",
+          "des": "最专业工业设计资源交流社区，工业设计大师，从业者，学生，爱好者聚集地。专注产品设计服务，分享创意工业设计作品，资讯，教程，大赛，展览，交易，论坛，招聘求职信息，优概念打造工业设计最具人气平台",
+          "tags": [
+            "社区",
+          ]
+        },
         {
           "name": "学犀牛中文网",
           "url": "http://www.xuexiniu.com",
@@ -10,16 +19,6 @@
           "des": "Rhino(犀牛)教程中文网站-学犀牛(Rhino)官方论坛 ",
           "tags": [
             "软件"
-          ]
-        },
-        {
-          "name": "BootCDN",
-          "url": "http://www.bootcdn.cn/",
-          "icon": "http://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png",
-          "des": "稳定、快速、免费的前端开源项目 CDN 加速服务",
-          "tags": [
-            "工具",
-            "CDN"
           ]
         },
         {
@@ -99,24 +98,24 @@
       ]
     },
     {
-      "title": "开发社区",
+      "title": "软件推荐",
       "con": [
         {
-          "name": "Mozilla 开发者网络",
-          "url": "https://developer.mozilla.org/zh-CN/",
-          "icon": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
-          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+          "name": "Zoommy 高清图库软件",
+          "url": "https://zoommyapp.com",
+          "icon": "https://zoommyapp.com/apple-touch-icon-120x120.png",
+          "des": "Zoommy帮助你为你的创意产品或灵感找到很棒的免费库存照片，支持 Windows、macOS、Linux三大平台",
           "tags": [
-            "社区"
+            "图片"
           ]
         },
         {
-          "name": "Stack Overflow",
-          "url": "http://stackoverflow.com/",
-          "icon": "http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a",
-          "des": "一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。",
+          "name": "Todoist 任务清单",
+          "url": "https://macstore.todoist.com/downloads/mac",
+          "icon": "https://d3ptyyxy2at9ui.cloudfront.net/logo_256-47cb98.png",
+          "des": "开始创建一个简洁的任务管理系统来保持一切有序进行。",
           "tags": [
-            "社区"
+            "工具"
           ]
         },
         {
